@@ -2,42 +2,42 @@
 
 ## Build Tool
 
-- [Install Maven on macOS](install-maven.md)
-- [Install Maven on Windows 10](install-maven-on-windows.md)
+- [Install Maven on macOS](categories/build-tool/install-maven.md)
+- [Install Maven on Windows 10](categories/build-tool/install-maven-on-windows.md)
 
 ## CI/CD
 
-- [CI/CD Overview](ci-cd-overview.md)
-- [Setup Jenkins Pipeline](setup-jenkins-pipeline.md)
-- [Send Email with Jenkins](send-email-with-jenkins.md)
-- [Setup Jenkins on AWS](setup-jenkins-on-aws.md)
+- [CI/CD Overview](categories/ci-cd/ci-cd-overview.md)
+- [Setup Jenkins Pipeline](categories/ci-cd/setup-jenkins-pipeline.md)
+- [Send Email with Jenkins](categories/ci-cd/send-email-with-jenkins.md)
+- [Setup Jenkins on AWS](categories/ci-cd/setup-jenkins-on-aws.md)
 
 ## Database
 
-- [Install MySQL](installing-mysql.md)
-- [Install PostgreSQL](installing-postgresql.md)
+- [Install MySQL](categories/database/installing-mysql.md)
+- [Install PostgreSQL](categories/database/installing-postgresql.md)
 
 ## Environment Setup
 
-- [Environment Setup (Java)](dev-env-setup-java.md)
-- [Environment Setup (JS)](dev-env-setup-js.md)
+- [Environment Setup (Java)](categories/environment-setup/dev-env-setup-java.md)
+- [Environment Setup (JS)](categories/environment-setup/dev-env-setup-js.md)
 
 ## Language Guide
 
-- [Java Guide](java.md)
-- [JavaScript Guide](javascript.md)
+- [Java Guide](categories/language-guide/java.md)
+- [JavaScript Guide](categories/language-guide/javascript.md)
 
 ## Technical Interview Prep
 
-- [Technical Interview Preparation Guide](technical-interview-prep.md)
-- [Interview Questions - Java](interview-questions-java.md)
-- [Interview Questions - SQL](interview-questions-sql.md)
-- [Interview Questions - HTML](interview-questions-html.md)
-- [Interview Questions - CSS](interview-questions-css.md)
-- [Interview Questions - Maven](interview-questions-maven.md)
+- [Technical Interview Preparation Guide](categories/technical-interview-prep/technical-interview-prep.md)
+- [Interview Questions - Java](categories/technical-interview-prep/interview-questions-java.md)
+- [Interview Questions - SQL](categories/technical-interview-prep/interview-questions-sql.md)
+- [Interview Questions - HTML](categories/technical-interview-prep/interview-questions-html.md)
+- [Interview Questions - CSS](categories/technical-interview-prep/interview-questions-css.md)
+- [Interview Questions - Maven](categories/technical-interview-prep/interview-questions-maven.md)
 
 ## Version-control System
 
-- [Git and Github Guide](git.md)
-- [Install Git](install-git.md)
-- [Github Remote Permission Denied](github-remote-permission-denied.md)
+- [Git and Github Guide](categories/version-control-system/git.md)
+- [Install Git](categories/version-control-system/install-git.md)
+- [Github Remote Permission Denied](categories/version-control-system/github-remote-permission-denied.md)
