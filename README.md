@@ -27,6 +27,12 @@
 - [Java Guide](categories/language-guide/java.md)
 - [JavaScript Guide](categories/language-guide/javascript.md)
 
+## Learnings
+
+- [Applied CS Skills With Google](https://appliedcsskills.withgoogle.com/)
+- [Awesome Data Science](https://github.com/imhsn/awesome-datascience)
+- [Google Interview University](https://github.com/imhsn/google-interview-university)
+
 ## Technical Interview Prep
 
 - [Technical Interview Preparation Guide](categories/technical-interview-prep/technical-interview-prep.md)
