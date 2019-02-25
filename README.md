@@ -45,5 +45,6 @@
 ## Version-control System
 
 - [Git and Github Guide](categories/version-control-system/git.md)
-- [Install Git](categories/version-control-system/install-git.md)
+- [Install Git on macOS](categories/version-control-system/install-git.md)
+- [Install Git on Windows 10](categories/version-control-system/install-git-on-windows.md)
 - [Github Remote Permission Denied](categories/version-control-system/github-remote-permission-denied.md)
